@@ -1,0 +1,116 @@
+/* general */
+section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+html {
+  position: relative;
+}
+
+body {
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+
+/* jumbotron */
+.jumbotron {
+  /* min-height: 700px; */
+  /* padding: 80px 40px; */
+  background-color: #d90429;
+  background-image: linear-gradient(to bottom right, #d90429, purple);
+  /* min-height: 10%; */
+}
+
+.jumbotron h1 {
+  color: white;
+}
+
+.jumbotron #h1-home {
+  margin-top: 5%;
+  margin-bottom: auto;
+}
+
+.jumbotron #h1-about {
+  margin-top: 3%;
+}
+
+.jumbotron h4 {
+  color: yellow;
+}
+
+.jumbotron img {
+  width: 25%;
+}
+
+/* skill */
+#skill .row img {
+  width: 30%;
+}
+
+#skill .row .col-sm-4 {
+  margin-bottom: 50px;
+}
+
+#skill .row {
+  margin-top: 80px;
+}
+
+
+/* achievement */
+#achievement {
+  background-color: #edf2f4;
+}
+
+#achievement .row {
+  margin-top: 80px;
+}
+
+#achievement .row .col-sm-6{
+  margin-top: 30px;
+}
+/* portofolio */
+.content-box {
+  margin-top: 80px;
+}
+
+#portofolio {
+  margin-bottom: 100px;
+}
+
+/* about */
+
+/* education */
+#edu {
+  background-color: #edf2f4;
+}
+
+#edu .col-sm-12 {
+  margin-top: 80px;
+}
+
+
+/* contact */
+
+/* coming soon */
+#coming-soon {
+  margin: 100px;
+}
+
+/* footer */
+footer {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  bottom: 0;
+  background-color: #333;
+  padding-top: 30px;
+}
+
+footer p {
+  color: white;
+}
+
+.fas {
+  color: salmon;
+}
